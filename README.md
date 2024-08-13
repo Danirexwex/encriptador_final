@@ -1,5 +1,6 @@
 <em> Encriptador de texto </em>
 <p> Creación de un encriptador de texto, un desafio por AluraLATAM </p>
+
 ## 1. Intro
 El encriptador de texto es un proyecto final que pone a prueba los 7 cursos de AluraLATAM, en la fase inicial de  programador.
 
